@@ -1,0 +1,7 @@
+this is a very good project to start with , it helps learning the basics of using arduino ,
+using a motor shield a servo and an ultrasonic sensor.
+
+some tips for evading problems :
+
+*put the ultrasonic senor a bit high from the ground and do not face it to the ground or it will not function well,
+you can find its datasheet and information about how it works and its caracteristiques to understand how to use it.
